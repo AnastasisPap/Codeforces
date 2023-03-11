@@ -51,3 +51,4 @@ Goal: solve A-D quickly and consistently A-E (div. 2) or A-B (div. 1)
 Goal: solve A-B very fast, A-C consistently (div. 1)
 
 # Algorithms to learn
+ - Prime factorization
